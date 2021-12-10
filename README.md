@@ -5,4 +5,4 @@
 May have to tune a bit.
 But overall ok.
 
-- 1 Pre-train model is in trainer folder.(a bit junky I suppose)
+- The-trained model will store in trainer folder.
